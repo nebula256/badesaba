@@ -1,0 +1,8 @@
+{
+  "name": "ماجراجویی یلدایی بادصبا — راهی به سوی گردونه",
+  "description": "بازی دوبعدی پلتفرمر ماجراجویی شب یلدا ویژه اپلیکیشن بادصبا با شخصیت ناری، سیستم امتیازدهی ۳۵۰ امتیازی و اتصال به گردونه شانس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
